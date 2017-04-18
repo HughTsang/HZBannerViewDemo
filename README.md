@@ -1,6 +1,5 @@
 # HZBannerViewDemo
-##轮播图
-###GitHub地址在文末
+## 轮播图
 
 ![示例图片](http://upload-images.jianshu.io/upload_images/2764759-f64546efd505f504.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 使用方法
